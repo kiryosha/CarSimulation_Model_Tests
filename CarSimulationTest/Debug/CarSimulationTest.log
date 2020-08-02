@@ -1,0 +1,3 @@
+﻿  CarSimulationTest.cpp
+D:\Учёба\Тестировщик Ispring\CarSimulationTest\CarSimulationTest\CarSimulationTest\CarSimulationTest.cpp(89,41): warning C4390: ";": обнаружен пустой контролируемый оператор; это правильно?
+  CarSimulationTest.vcxproj -> D:\Учёба\Тестировщик Ispring\CarSimulationTest\CarSimulationTest\Debug\CarSimulationTest.exe
